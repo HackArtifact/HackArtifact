@@ -24,7 +24,7 @@
 
 ## About me
 
-I build and maintain production web applications across the full stack, with a strong focus on **C#/.NET** backend development. Currently working on *iCompare* — a web-based business platform — at Signature Business Solutions, while also developing **SWEY Online Shopping**, an e-commerce platform I founded that's launching in 2026.
+I build and maintain production web applications across the full stack, with a strong focus on **C#/.NET** backend development. Currently working on *iCompare* — a web-based business platform — at Signature Business Solutions, while also developing **Swéy Modern Discovery**, an e-commerce platform I founded that's launching in 2026.
 
 I'm open to **junior roles and freelance/contract work**, and available for relocation across the EU.
 
