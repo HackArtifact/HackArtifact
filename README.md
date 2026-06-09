@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Software Developer · C#/.NET · Johannesburg, South Africa</h3>
 
 <p align="center">
-  BSc Computer Science (Rhodes University) · Junior Developer at Signature Business Solutions · Founder of SWEY Online Shopping
+  BSc Computer Science (Rhodes University) · Junior Developer at Signature Business Solutions · Founder of Swéy Modern Discovery
 </p>
 
 <p align="center">
@@ -25,8 +25,6 @@
 ## About me
 
 I build and maintain production web applications across the full stack, with a strong focus on **C#/.NET** backend development. Currently working on *iCompare* — a web-based business platform — at Signature Business Solutions, while also developing **Swéy Modern Discovery**, an e-commerce platform I founded that's launching in 2026.
-
-I'm open to **junior roles and freelance/contract work**, and available for relocation across the EU.
 
 ---
 
@@ -79,7 +77,7 @@ I'm open to **junior roles and freelance/contract work**, and available for relo
 
 ## Let's work together
 
-I'm available for **freelance and contract work** as well as **junior developer roles**. Strongest in C#/.NET backends, comfortable across the full stack.
+Strongest in C#/.NET backends, comfortable across the full stack.
 
 📍 Johannesburg, South Africa · Open to EU relocation (Blue Card)
 🌐 [hackartifact.github.io](https://hackartifact.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/brandon-filmer-ab1155239) · 📧 brandonf2000@hotmail.com
