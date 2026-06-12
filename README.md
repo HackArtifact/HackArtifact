@@ -79,5 +79,5 @@ I build and maintain production web applications across the full stack, with a s
 
 Strongest in C#/.NET backends, comfortable across the full stack.
 
-📍 Johannesburg, South Africa · Open to EU relocation (Blue Card)
+📍 Johannesburg, South Africa
 🌐 [hackartifact.github.io](https://hackartifact.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/brandon-filmer-ab1155239) · 📧 brandonf2000@hotmail.com
